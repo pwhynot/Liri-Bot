@@ -5,7 +5,7 @@ const isToday =require("date-fns");
 
 function concerts(input) {
     const artist = input;
-    const url = "https://app.ticketmaster.com/discovery/v2/events.json?size=1&keyword=" + artist + keys.ticketmaster.id;
+    const url = "https://app.ticketmaster.com/discovery/v2/events.json?size=1&keyword=" + artist +keys.ticketmaster.id;
 
     axios.get(url).then(
         function(response) {
