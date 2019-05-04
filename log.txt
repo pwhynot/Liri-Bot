@@ -66,3 +66,23 @@ Album: The Decline
 Preview Link: https://p.scdn.co/mp3-preview/d4d847ef0e6124d823854466c8bb4c04c6a6340f?cid=a26339154e114a45b88c060ee8395a8e
 
 -------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2017
+
+IMDB Rating: 7.4
+
+Rotten Tomatoes: 85%
+
+Country: USA, Canada
+
+Language: English
+
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+
+Year: 2017
+
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+
+-----------------------------------------
