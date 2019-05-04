@@ -86,3 +86,71 @@ Year: 2017
 Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
 
 -----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Like I Ain't
+
+Artist(s): Tech N9ne
+
+Album: N9NA
+
+Preview Link: https://p.scdn.co/mp3-preview/d1c3cc9ab670f18aaa1f4702c9217279ade51ca6?cid=a26339154e114a45b88c060ee8395a8e
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1984
+
+IMDB Rating: 7.8
+
+Rotten Tomatoes: 97%
+
+Country: USA
+
+Language: English
+
+Plot: Three former parapsychology professors set up shop as a unique ghost removal service.
+
+Year: 1984
+
+Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Jesus of Suburbia
+
+Artist(s): Green Day
+
+Album: American Idiot
+
+Preview Link: https://p.scdn.co/mp3-preview/ec083b4edfdd1a4cbfb642b231d797e67ceaf69f?cid=a26339154e114a45b88c060ee8395a8e
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: KOD
+
+Artist(s): J. Cole
+
+Album: KOD
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Positive Vibes
+
+Artist(s): Kottonmouth Kings
+
+Album: Rollin' Stoned
+
+Preview Link: null
+
+-------------------------------------------------------
