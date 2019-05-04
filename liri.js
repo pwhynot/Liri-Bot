@@ -21,7 +21,7 @@ switch (userArgument) {
     concerts(input);
     break;
   case "feeling-lucky":
-    doWhatItSays();
+    feelingLucky();
     break;
   default:
     Err = "Please enter of the choices below" + "\r\n" + "\r\n" +
